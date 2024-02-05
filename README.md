@@ -1,9 +1,9 @@
 # Hi there 👋 my name is Fabricio Di Paolo
 
-## 🔭 I’m currently working on various projects for the transport ministry of my city. Mostly working with Docker & Laravel but there are problems in other areas that i have to cover all the time. At the start i felt nervous but now my confidence has began to raise.
+## 🔭 I have been studying web development since 2020, I feel well prepared to work in the backend as well as in the frontend. My favourite technology is React :).
 
-### 🌱 In the past 3 years I has been studing React and React Native. Some of the pages I have developed are in my briefcase (https://workdone-b8e5c.web.app/). Also I worked very hard on a JAVA course that also teached me the basics of the backend and fundamentals of Git, MySQL, & CSS.
+### 🐞 You can dive into my personal web page if you want more information about myself (https://workdone-b8e5c.web.app/).
 
-### 👯 I’m looking for a job in wich I could discuss with other developers and learn together because at the moment I am the only programmer at my work place.
+### 🌱 Actually working in Tremé.
 
 - 📫 Contact me: fabridp77@gmail.com
