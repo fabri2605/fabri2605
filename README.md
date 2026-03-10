@@ -3,8 +3,8 @@
 📈 Mis stats en GitHub
 <br>
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arielmirra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arielmirra&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabri2605&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabri2605&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 🛠️ Tecnologías y Herramientas que más uso
